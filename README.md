@@ -144,9 +144,9 @@ Implement and evaluate a Dueling Double DQN (DDQN) agent with Prioritized Experi
 | Event | C2 (Baseline) | C4 (Card Rush) | C5 (Noble Hunter) | C6 (Balanced Dense) |
 |-------|:---:|:---:|:---:|:---:|
 | Gem taken | 0.002 | 0.002 | 0.002 | 0.010 |
-| Card bought L1 | 0.05 | 0.05 | 0.05 | 0.10 |
-| Card bought L2 | 0.10 | 0.10 | 0.10 | 0.20 |
-| Card bought L3 | 0.20 | 0.20 | 0.20 | 0.40 |
+| Card bought L1 | 0.05 | 0.15 | 0.05 | 0.10 |
+| Card bought L2 | 0.10 | 0.25 | 0.10 | 0.20 |
+| Card bought L3 | 0.20 | 0.40 | 0.20 | 0.40 |
 | Prestige gained | 1.00 | 1.00 | 1.00 | 1.00 |
 | Noble gained | 3.00 | 0.50 | 6.00 | 4.00 |
 | Card reserved | 0.01 | 0.01 | 0.01 | 0.02 |
