@@ -1,0 +1,12 @@
+# DRL_Project_extra requirements -- GPU build
+# Install PyTorch with CUDA first:
+#   pip install torch torchvision --index-url https://download.pytorch.org/whl/cu121
+# Then:
+#   pip install -r requirements.txt
+
+torch>=2.0.0          # torch.compile() requires 2.0+
+numpy>=1.24
+matplotlib>=3.7
+tqdm>=4.65
+pygame>=2.4
+gymnasium>=0.28.1
